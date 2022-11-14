@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<Company>
+  <Employee id="f032ac">
+        
+      <FirstName>mouhamed</FirstName>
+      <LastName>laadjel</LastName>
+      <Age>21</Age>
+      <Email>mohamed.laadjel2019@gmail.com</Email>
+      <Address>1867 Pretty View Lane</Address>
+      <phone>0699479120</phone>
+      
+      <Phone>0699479129</Phone>
+  </Employee>
+  <Employee id="e33kjb">
+      <FirstName>cherif</FirstName>
+      <LastName>elarbi</LastName>
+      <Age>22</Age>
+      <Email>elarbiCherif@gmail.com</Email>
+      <Address>1867 Pretty View Lane</Address>
+      <phone>0699479120</phone>
+
+  </Employee>
+  <Employee id="35an4f">
+      <FirstName>khaled</FirstName>
+      <LastName>kechmiri</LastName>
+      <Age>55</Age>
+      <Email>khale123@gmail.com</Email>
+      <Address>1867 Pretty View Lane</Address>
+      <phone>0699479120</phone>
+
+  </Employee>
+  <Employee id="99frb1">
+      <FirstName>3adel</FirstName>
+      <LastName>Ibiza</LastName>
+      <Age>88</Age>
+      <Email>AdelCringyBoy@gmail.com</Email>
+      <Address>1867 Pretty View Lane</Address>
+      <phone>0699479120</phone>
+
+  </Employee>
+  <Employee id="b4h553">
+      <FirstName>bachir</FirstName>
+      <LastName>boureka</LastName>
+      <Age>12</Age>
+      <Email>bachirBourekaa9@gmail.com</Email>
+      <Address>1867 Pretty View Lane</Address>
+      <phone>0699479120</phone>
+
+  </Employee>
+</Company>
